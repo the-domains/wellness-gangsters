@@ -5,27 +5,27 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Rule:\nThe individual is free only to the extent of his own self-mastery.\_To any degree one is not self-mastered, he shall be governed by others."
-datePublished: '2016-03-14T15:04:02.871Z'
-dateModified: '2016-03-14T15:03:59.688Z'
-title: "\_Application:\_"
+description: "\_What is freedom but the choice to choose and live from a place that is authentically you?\n\nBut how many choices are made that are subliminally or obviously influenced by other sources that lie outside of you?\_\n"
+datePublished: '2016-03-14T15:16:29.505Z'
+dateModified: '2016-03-14T15:16:14.762Z'
+title: "Rule:\nThe individual is free only to the extent of his own self-mastery.\_To any degree one is not self-mastered, he shall be governed by others."
 author: []
+sourcePath: _posts/2016-03-14-application.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-application.md
-published: true
 url: application/index.html
 _type: Article
 
 ---
-Rule:
+# Rule:
 The individual is free only to the extent of his own self-mastery. To any degree one is not self-mastered, he shall be governed by others.
 
-Illumination: 
+## Illumination: 
 
 What is freedom but the choice to choose and live from a place that is authentically you?
 But how many choices are made that are subliminally or obviously influenced by other sources that lie outside of you? 
@@ -38,7 +38,7 @@ Don't be controlled by others and thereby forfeit your freedom in this one shot 
 
 Master your Self instead. 
 
-# Application: 
+## Application: 
 
 Mindfully untangle and pay hyper attention to the decisions you make and why you made them.
 Uncover whether they were a product of your true desires, or a consequence of someone else's. 
@@ -70,4 +70,4 @@ Repeat.
 Self-Mastery is a lifelong quest. 
 But for everyday you practice it, you will have lived another day that is yours. 
 
-\#WellnessGangsters \#LifeManual \#Share
+## \#WellnessGangsters \#LifeManual \#Share
