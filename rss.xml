@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Wellness Gangsters]]></title>
         <description><![CDATA[Wellness Gangsters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wellness-gangsters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 05:16:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 14:58:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wellness-gangsters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rule: ]]></title>
+            <description><![CDATA[<article><h1>Rule: </h1><p>Seek to be proven wrong, not right. </p></article>]]></description>
+            <link>https://thegrid.ai/wellness-gangsters/rule/index.html</link>
+            <guid isPermaLink="false">65934221-4c9e-4c4e-be44-511e3a262d0c</guid>
+            <pubDate>Mon, 14 Mar 2016 14:58:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About me]]></title>
             <description><![CDATA[<article><h1>About me</h1><p>Ideas for U30X Outreach:
@@ -28,8 +35,8 @@ Authorities
 
 
 To be inspired from quiet of nature instead of the noise of a cubicle.  Transforming walls into trees and offices into oceans.  Positioning the Self only in places purposefully chosen to induce feelings of pleasure; following not where work requires you, only where you require yourself to work.  
-</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f2b20f8-4dc2-4fd6-a8e6-6481c4a4b934.jpg"></article>]]></description>
-            <link>undefinedabout-me/index.html</link>
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ac4d356f5251f5c31640cf1d7e380f914433a17.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wellness-gangsters/about-me/index.html</link>
             <guid isPermaLink="false">378abdef-6a9f-4af8-816e-7103e26dd6d1</guid>
             <pubDate>Mon, 14 Mar 2016 05:13:19 GMT</pubDate>
         </item>
