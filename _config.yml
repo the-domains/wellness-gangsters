@@ -1,0 +1,28 @@
+name: Wellness Gangsters
+favicon: null
+layout_spectrum: 0.6457899268716574
+typography_spectrum: 0.5869441393297166
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5133274875115603
+  lightness: 0.3377137538045645
+  saturation: 0.007807044545188546
+  rhythmicContrast: 0.677181281382218
+purpose: []
